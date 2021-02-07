@@ -1,0 +1,29 @@
+Week 1
+Participated in the initial discussion to form the team and discuss the topic for the group project. Created user stories on JIRA for the project deliverables. Conducted two meetings for defining the deliverables for the project, discussed and allocated the tasks for the project proposal.
+
+Week 2
+Added additional user stories for the project objectives. Worked on the project Background section of the proposal report. Worked on the user stories and sprints section of teh proposal document. Created the innitial setup of the react applocation.
+
+Week 3
+Completed the user stories and background section of the proposal document. Started learning react.js for user interface development. Completed the user story for the development of the navigation bar for the website. Started working on the user inteface of the Home page.
+
+Week 4
+Completed the user story for the development of logout functionality. Developed the user interface for home page and movie details page using static data. Added the functionality for capturing the data using rest api. 
+
+Week 5
+Completed the rest api integration of the home page and the see more pages for top rating, popular and recent movies. Created the user interface for the Wishlist page using static data.
+
+Week 6
+Completed the API integration of the Wishlist page and movie details page. Implemented the functionality of like/unlike, add/remove to wishlist. Implemented the functionality to view reviews. Started working on the profile page. 
+
+Week 7
+Completed the API rendering of the reviews section. Completed the view prodile page and the edit profile page. Started testing the application and reporting issues in the application.
+
+Week 8
+Added trailers on the movie details page. Added tool tip text for better represenation on all buttion on movie details page. Added styling for movie tiles to make them consistant with the page. Added fix on Navigation bar active state.  Redid teh karan's story of registration page as it was not as per the team consensus. Added option to edit avatar in profile page. Asked everyoen to remove all the static data from code base.
+
+Week 9
+Added the notification functionality on the website. Tested the application and fixed the bugs in the application. Added the follow user feature. Users can add, view and remove a user form follow list. Added the share movie feature. Redid the like/upvote on the reviews. Imporved the asthetic appeal of the website.
+
+Week 10
+Worked on the project report. Added the user manual and overall functionality of the product. Worked on the overall format of the report.

@@ -1,0 +1,28 @@
+Week 1:
+   Participated in two Intial project meetings ,which are required to choose to topic and Recurring Meeting Time. Created User Stories in Jira for Proposal Document Epic. Task assigned : Software Architecture to Add into Proposal Document. Research on Different System Architectures done by Streaming and Website Buliding Websites. Joined JIRA team and Git-Hub Repository is Created.
+
+Week 2:
+    System Architecture Research is done and Proposal Document is updated with the System Architure Diagram . System Setup is done for Using DJANGO framework for Backend Development . Attended Weekly Scrum Meeting Held on Friday and Sunday of Week 2 . Updated Subtasks for Jira User Stories . Finalised External API'S to be used for developement(The Movie DB).
+
+Week 3:
+   Submitted Proposal document . Sprint 1 is started worked with TMDB API Querying and Login Api is created and tested with Username and Password present in Data Base . Response structure is JSON .
+   
+Week 4:
+   Completed User stories assigned in this week.Testing from both Front end and Back end is done. Few changes to code is done . Connections issues are fixed for Login, Registration pages . Home Page API is developed with Popular , Most rated and Latest release movies.
+   
+Week 5:
+     We need to have end to end flow for our first demo presentation . Added Movie search api which takes Query(Movie name or Keyword) as input and returns the similar movies with same name .Working on User Stories assigned in this week.Movie Details API is added which takes movie Id and sends the details of particular movie.
+     
+Week 6:
+    Attended Retrospective A meeting and Completed Sprint taks and Updated JIRA with tasks completed . Added Browse API , which allows user to browse movies based on Genre , Director . Result obtained is Sorted with Increasing order of Rating and If any Discrepancy exists (Having Same Rating) then Title based Sorting is used. Search results consists of Genre , Name and Description Search.
+    
+ Week 7 :
+     Started working on api to sort user reviews based on Gender of User and specific time period (Review  Created)
+ Week 8:
+     Fixed Bugs in the working code . Jira Tasks are updated . Participated in Dem0 2 and attended Retrospective Meeting 2 on Friday. Decided to start recurring scrum meeting (5 -10 mins ) on daily progress.
+Week 9:
+      Backend part received feedback to load results from external API. Strated working on Caching using Memcached and need to create a Dynamic Java script file creation for front end task.
+      
+Week 10:
+     Report prearation. Minor Code Fixes. Populating Database. Demo Preparation is done. User stories are upodated in Jira
+     

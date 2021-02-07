@@ -1,0 +1,32 @@
+Work Diary
+
+Week 1
+
+Created the group. Brainstormed on project objectives with team. Created epics, user stories, and sub tasks in Atlassian Jira. Initiated project meeting twice in the week and assigned tasks for project proposal. Discussed on available software tools, database design, chose backend programming language and frontend framework. From the project proposal I will be working on interface and flow diagrams.
+
+Week 2
+Created the first draft of interface and flow diagrams. Discussed with team on jira activities, setting up work environment of project in our system. I will be working on assigned Jira tasks for the sprint and make the final draft of interface and flow diagrams.
+
+Week 3
+Prepared the final draft of the interface and flow diagrams. Included the user boards in the proposal document. Reviewed format of proposal document before submission. Completed the setup of front end environment on local machine. Tested the same environment on VLAB machine. Further, I will be working on assigned JIRA tasks i.e sign up form.
+
+Week 4
+Installed mongodb, compass and other backend requirements. Finished the UI of sign up form. Integrated the UI with the backend. Tested the sign up flow. Updated the JIRA stories accordingly. Started UI and api/backend integration of sign up page.
+
+Week 5
+Completed api integration of sign up form with UI. Added error messages for sign up page. Created UI for search by movie title, movie genre and movie description. I I will be working on UI and api/backend integration of search pages.
+
+Week 6
+Attended first demo and Presented the project progress by going through the website. Attended the retrospective meeting and contributed in preparing the retrospective document by suggesting points on what went well and wrong till now. Completed api integration of search pages with UI. Completed dynamic search by user from the navigation bar. Created generic file for exporting commonly used variables. I will be working on browse page and on the fly search based on movie name.
+
+Week 7
+Completed the UI of browse pages. Added multiselect feature for genres and directors. Completed backend/api integration of browse pages. Completed on the fly search based on movie name. Removing redundant lines of code. Testing the application and reporting issues. I will be working on filtering reviews and upvote a review. 
+
+Week 8
+Completed the filtering of reviews based on gender and date range. Attended the second demo. Fixed the issues raised during demo and website testing. Attended the second retrospective meeting and contributed in preparing the retrospective document. I will be working on upvote a review novelty.
+
+Week 9
+Completed the functionality to like/upvote a review given by user. Updated the Jira board accordingly. Conducted team meeting to distribute tasks on report writing and also final product progress for submission. I will be adding comments to my code and cleaning any redundant lines of code.
+
+Week 10
+Completed the code checkin with all bug fixes on GIT, finished report writing, completed unit testing of the Film Finder application. The final presentation of the software application will be done this week on Thursday.
