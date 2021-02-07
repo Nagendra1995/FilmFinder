@@ -1,0 +1,38 @@
+.account{
+    background-image: url("../images/loginsignup.jpg");
+    height: 640px;
+}
+
+#inputField{
+    padding-right: 3%;
+}
+
+.profile .header{
+    height: 25px;
+}
+
+.profileEdit{
+    width: 130px;
+}
+
+.account .form{
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 1%;
+    opacity: 1!important;
+}
+
+.errorMessage{
+    margin-left: 5%!important;
+    margin-right: 5%!important;
+    color: red;
+}
+
+.avatarEdit{
+    background-color: Transparent!important;
+}
+
+.signup{
+    width: 250px!important;
+}
+
